@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/wessel_tip
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://passthewessel.github.io
+  * I am wessel_tip (https://keybase.io/wessel_tip) on keybase.
+  * I have a public key with fingerprint 46ED 4E83 7580 D2E8 0D65  6D62 8E67 9DC5 B88F 3FF8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bc79e213576070dd479bba0b6c1435875a62c863b7879efa752443596c1cfa510a",
+      "fingerprint": "46ed4e837580d2e80d656d628e679dc5b88f3ff8",
+      "host": "keybase.io",
+      "key_id": "8e679dc5b88f3ff8",
+      "kid": "0101bc79e213576070dd479bba0b6c1435875a62c863b7879efa752443596c1cfa510a",
+      "uid": "30ed2370c46451bc86aae72e43de0719",
+      "username": "wessel_tip"
+    },
+    "service": {
+      "hostname": "passthewessel.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1543162244,
+  "expire_in": 157680000,
+  "prev": "dd998f77f143e85b90867ffcef76a7b886d3fbb881affa0db8b0d0328dc8345d",
+  "seqno": 63,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJbSBRRGMd3sw0TuokYlWYOEhQmcz9nt3qI6EJF0YuWGyxn5pzZGXR3
+ppnZrdWWECpCiMSoh4qih1Yfil4yy6JMczXL7jfBiLAXowvdKLuf0XrrsfNwDuc7
+v+//fd+fc21Kji/PXzG0e+nFFi3pv3H1ZMIX/np9Vz2jmDjFhOqZGjJ2kFpMHDdS
+Y2AmxLAcyykqCBKeEyQgs4DFWARBRUGsIqucKEgQSEjmVSgLCoAU1BCQeJE+BOm7
+qiGJYxFTzmhGPEpsyzbiLpUVZYJFAgUgQRbzhG6yJGOZh0QGQaxKCoSaoGmQJuqm
+42XQ5hTkkArDpDF6iYy19w/+P/edGJMTWIJ5AbCqKIsSFYYyQgTwRBQwYQEX9ECH
+2HEUI5TeRhyH1EZcw2LS5QyNJw2VeNZ6s/xhLOQ4rk7G0Yqo4eoJZXw4yzZdUzVr
+KaS7ruWEPBE3ZY0rK5E/ehHFiGNqKs1IEtsxzDgT4iipuoZXgJNEgZN5OlE5Q7Zb
+hk0ihkdQMyBLl1eHJKkkxsEg1ADQqCkESkqQhTLQNJVoQEaAGitjQVPoySFNQyxW
+oMJiVuAhVqEgSpjxJtwaN5mQLNA+UZRqOkY0jtyETZh0V+eWiT5/nm9SYIL323x5
+k6f//YPf63J9Ta3+pLSq4cLP3tRoZnTlr1vftt3PX2fppQNPjs8+9H1h25Rlvfdz
+n2ojrZPrSncIb+Z8OXDv2GB74mF/Q1+1Mq1ZnYFU9XShXpQtfrFsdfUd/68TBw8e
+eV9Rt/Nuaffl4XcDUwMrM9l9LZ0fz/El0bZYSaytO9q3dw3a89m3aX1G73j2/Eh4
+Yw9JZIq/nqlu7hiuDEvru+YO3VMD80cbT+kFiRXzPrcVDe45WllY9eFSt7n2wLGc
+7IPiR/D8jqNNTFVLTuWr2E0h+aRhc7gsv6y/88Six68XLy94e+Vl4cycT6keXNW4
+63B6Vn969Y8Re8GqDWz7/oJs8uzOWODW7UdLzN+gaUwN
+=Ffqb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wessel_tip
+
+==================================================================
